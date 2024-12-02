@@ -1,0 +1,1 @@
+# odysseys-obsidian-plugin-api1
